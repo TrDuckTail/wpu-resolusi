@@ -5,5 +5,7 @@ Rencana aplikasi yang ditambahkan di docker
 - Mariadb
 - Nginx
   ^ nging proxy manageer
+  ^ reverse proxy
 - aria2
+ 
 
