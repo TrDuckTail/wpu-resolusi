@@ -1,6 +1,6 @@
 WPU RESOLUSI
-- Belajar docker
 - Belajar GIT
 - Membuat Home Server 
 - Membuat Webstorage seperti google drive menggunakan nextcloud
 - Belajar reverse proxy di nginx
+- Membuat wireguard
