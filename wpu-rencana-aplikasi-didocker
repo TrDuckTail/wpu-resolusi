@@ -3,5 +3,9 @@ Rencana aplikasi yang ditambahkan di docker
   * Admin
 - Mariadb
   * phpmyadmin
-- Nginx 
-  * loadbalancer 
+- Nginx
+  * nging proxy manageer
+  * reverse proxy
+  * loadbalancer
+- aria2
+
