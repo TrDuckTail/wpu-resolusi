@@ -1,11 +1,11 @@
 Rencana aplikasi yang ditambahkan di docker
 - Nextcloud
   * Admin
-  * user1
 - Mariadb
+  * phpmyadmin
 - Nginx
-  ^ nging proxy manageer
-  ^ reverse proxy
+  * nging proxy manageer
+  * reverse proxy
+  * loadbalancer
 - aria2
- 
 
