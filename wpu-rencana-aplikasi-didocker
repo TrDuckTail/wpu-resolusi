@@ -1,6 +1,7 @@
 Rencana aplikasi yang ditambahkan di docker
 - Nextcloud
   * Admin
-  * user1
 - Mariadb
-- Nginx
+  * phpmyadmin
+- Nginx 
+  * loadbalancer 
