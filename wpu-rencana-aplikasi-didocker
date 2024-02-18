@@ -1,4 +1,4 @@
-Rencana aplikasi yang ditambahkan di docker
+Rencana container yang ditambahkan pada docker
 - Nextcloud
   * Admin
 - Mariadb
@@ -8,4 +8,5 @@ Rencana aplikasi yang ditambahkan di docker
   * reverse proxy
   * loadbalancer
 - aria2
+  *ariang
 
